@@ -4,6 +4,7 @@ Jogo web de futebol híbrido: gerenciamento de clube + partidas 2D em pixel art,
 
 > A fonte de verdade sobre conceito, escopo e decisões de produto é o [`PROJECT_CONTEXT.md`](PROJECT_CONTEXT.md).
 > Arquitetura: [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md). Próximas etapas: [`docs/ROADMAP.md`](docs/ROADMAP.md).
+> O projeto também é um laboratório de aprendizado: trilhas de estudo em [`Estudos/`](Estudos/README.md).
 
 ## Estado atual
 
